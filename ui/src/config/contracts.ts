@@ -1,4 +1,4 @@
-export const CONTRACT_ADDRESS = '0x0000000000000000000000000000000000000000' as `0x${string}`;
+export const CONTRACT_ADDRESS = '0x4326aA3a5a0D6Ea77a8a5463BBCF337510d66C8D' as `0x${string}`;
 export const POINTS_PER_ETH = 1000;
 export const ROUND_REWARD = 10;
 
